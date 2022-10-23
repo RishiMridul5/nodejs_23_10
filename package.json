@@ -1,0 +1,22 @@
+{
+  "name": "tut01",
+  "version": "1.0.0",
+  "description": "Tutorial-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "coding addict",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
